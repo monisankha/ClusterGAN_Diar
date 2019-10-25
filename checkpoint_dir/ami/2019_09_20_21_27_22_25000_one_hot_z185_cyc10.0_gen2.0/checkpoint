@@ -1,0 +1,6 @@
+model_checkpoint_path: "model.ckpt"
+all_model_checkpoint_paths: "../2019_09_20_21_27_22_5000_one_hot_z185_cyc10.0_gen2.0/model.ckpt"
+all_model_checkpoint_paths: "../2019_09_20_21_27_22_10000_one_hot_z185_cyc10.0_gen2.0/model.ckpt"
+all_model_checkpoint_paths: "../2019_09_20_21_27_22_15000_one_hot_z185_cyc10.0_gen2.0/model.ckpt"
+all_model_checkpoint_paths: "../2019_09_20_21_27_22_20000_one_hot_z185_cyc10.0_gen2.0/model.ckpt"
+all_model_checkpoint_paths: "model.ckpt"
