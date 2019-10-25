@@ -136,7 +136,7 @@ def eval_cluster(pathname1, labels_pred, labels_true, no_of_spk, timestamp, z_di
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser('')
-    parser.add_argument('--pathname', type=str, default='/Data/ClusterGAN_Diar/bosc_clinic/Data_bosc_clinic/')
+    parser.add_argument('--pathname', type=str, default='/Data/ClusterGAN_Diar/Data_bosc_clinic/')
     parser.add_argument('--path', type=str, default='/Data/ClusterGAN_Diar/Timestamp/')
     parser.add_argument('--no_of_spk', type=int, default=201)
     parser.add_argument('--no_of_sessions', type=int, default=27)
