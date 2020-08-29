@@ -1,5 +1,8 @@
 # ClusterGAN_Diar
-Latent space clustering in GANs.
+In this work, we propose deep latent space clustering for speaker diarization using generative adversarial network (GAN) back-projection with the help of an encoder network. The proposed diarization system is trained jointly with GAN loss, latent variable recovery loss, and a clustering-specific loss. It uses x-vector speaker embeddings at the input, while the latent variables are sampled from a combination of continuous random variables and discrete one-hot encoded variables using the original speaker labels. 
+
+# Paper published
+Pal, Monisankha, et al. ["Speaker diarization using latent space clustering in generative adversarial network."](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9053952) ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020.
 
 # Dependencies
 The code has been tested with the following versions of packages.
