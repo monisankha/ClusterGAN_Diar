@@ -28,3 +28,5 @@ python main_testing.py --wavFile /Data/git_dir_final/ClusterGAN_Diar/AMI_ES2004c
 DER of the x-vector baseline on AMI_ES2004c.wav: 20.52%; 
 DER of the fused system (x-vector + ClusterGAN embedding) on AMI_ES2004c.wav: 1.68% (using timestamp_asr_icsi3, 30k model)
 
+*** For any query pls contact at monisankha.pal@gmail.com
+
